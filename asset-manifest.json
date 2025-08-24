@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finalone/static/css/main.64740f90.css",
+    "main.js": "/finalone/static/js/main.e48d0d6a.js",
+    "static/js/453.dade83bd.chunk.js": "/finalone/static/js/453.dade83bd.chunk.js",
+    "index.html": "/finalone/index.html",
+    "main.64740f90.css.map": "/finalone/static/css/main.64740f90.css.map",
+    "main.e48d0d6a.js.map": "/finalone/static/js/main.e48d0d6a.js.map",
+    "453.dade83bd.chunk.js.map": "/finalone/static/js/453.dade83bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64740f90.css",
+    "static/js/main.e48d0d6a.js"
+  ]
+}
